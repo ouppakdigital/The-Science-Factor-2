@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<unit>
+	<Num><![CDATA[01]]></Num>
+	<name><![CDATA[Unit 1 : The human body]]></name>
+	<lesson>
+		<name><![CDATA[Brain, heart, and lungs]]></name>
+		<path><![CDATA[chapters/Unit01/Lesson1/U1L1_Screen1.swf]]></path>
+		<path><![CDATA[chapters/Unit01/Lesson1/U1L1_Screen2.swf]]></path>		
+		<path><![CDATA[chapters/Unit01/Lesson1/U1L1_Screen3.swf]]></path>
+		<path><![CDATA[chapters/Unit01/Lesson1/U1L1_Screen4.swf]]></path>
+	</lesson>
+	<lesson>
+		<name><![CDATA[Bones, joints, and muscles]]></name>
+		<path><![CDATA[chapters/Unit01/Lesson2/U1L2_Screen1.swf]]></path>
+		<path><![CDATA[chapters/Unit01/Lesson2/U1L2_Screen2.swf]]></path>		
+		<path><![CDATA[chapters/Unit01/Lesson2/U1L2_Screen3.swf]]></path>
+		<path><![CDATA[chapters/Unit01/Lesson2/U1L2_Screen4.swf]]></path>
+	</lesson>
+</unit>
+
+
+<unit>
+<Num><![CDATA[02]]></Num>
+	<name><![CDATA[Unit 2 : The animal world]]></name>
+	<lesson>
+		<name><![CDATA[Warm-blooded and cold-blooded animals]]></name>
+		<path><![CDATA[chapters/Unit02/Lesson1/U2L1_Screen1.swf]]></path>
+		<path><![CDATA[chapters/Unit02/Lesson1/U2L1_Screen2.swf]]></path>		
+		<path><![CDATA[chapters/Unit02/Lesson1/U2L1_Screen3.swf]]></path>
+		<path><![CDATA[chapters/Unit02/Lesson1/U2L1_Screen4.swf]]></path>
+	</lesson>
+	<lesson>
+		<name><![CDATA[Endoskeleton and exoskeleton]]></name>
+		<path><![CDATA[chapters/Unit02/Lesson2/U2L2_Screen1.swf]]></path>
+		<path><![CDATA[chapters/Unit02/Lesson2/U2L2_Screen2.swf]]></path>		
+		<path><![CDATA[chapters/Unit02/Lesson2/U2L2_Screen3.swf]]></path>
+		<path><![CDATA[chapters/Unit02/Lesson2/U2L2_Screen4.swf]]></path>
+	</lesson>
+</unit>
+
+<unit>
+<Num><![CDATA[03]]></Num>
+	<name><![CDATA[Unit 3 : The plant world]]></name>
+	<lesson>
+		<name><![CDATA[Germination]]></name>
+		<path><![CDATA[chapters/Unit03/Lesson1/U3L1_Screen1.swf]]></path>
+		<path><![CDATA[chapters/Unit03/Lesson1/U3L1_Screen2.swf]]></path>		
+		<path><![CDATA[chapters/Unit03/Lesson1/U3L1_Screen3.swf]]></path>
+		<path><![CDATA[chapters/Unit03/Lesson1/U3L1_Screen4.swf]]></path>
+		<path><![CDATA[chapters/Unit03/Lesson1/U3L1_Screen5.swf]]></path>
+	</lesson>	
+</unit>
+
+<unit>
+<Num><![CDATA[04]]></Num>
+	<name><![CDATA[Unit 5 : Food and diet]]></name>
+	<lesson>
+		<name><![CDATA[Food pyramid]]></name>
+		<path><![CDATA[chapters/Unit05/Lesson1/U5L1_Screen1.swf]]></path>
+		<path><![CDATA[chapters/Unit05/Lesson1/U5L1_Screen2.swf]]></path>		
+		<path><![CDATA[chapters/Unit05/Lesson1/U5L1_Screen3.swf]]></path>
+		<path><![CDATA[chapters/Unit05/Lesson1/U5L1_Screen4.swf]]></path>
+	</lesson>
+</unit>
+
+<unit>
+<Num><![CDATA[05]]></Num>
+	<name><![CDATA[Unit 6 : Environment]]></name>
+	<lesson>
+		<name><![CDATA[Caring for the environment]]></name>
+		<path><![CDATA[chapters/Unit06/Lesson1/U6L1_Screen1.swf]]></path>
+		<path><![CDATA[chapters/Unit06/Lesson1/U6L1_Screen2.swf]]></path>		
+		<path><![CDATA[chapters/Unit06/Lesson1/U6L1_Screen3.swf]]></path>
+		<path><![CDATA[chapters/Unit06/Lesson1/U6L1_Screen4.swf]]></path>
+	</lesson>
+</unit>
+
+<unit>
+<Num><![CDATA[06]]></Num>
+	<name><![CDATA[Unit 7 : Water, weather, and wind]]></name>
+	<lesson>
+		<name><![CDATA[The water cycle]]></name>
+		<path><![CDATA[chapters/Unit07/Lesson1/U7L1_Screen1.swf]]></path>
+		<path><![CDATA[chapters/Unit07/Lesson1/U7L1_Screen2.swf]]></path>		
+		<path><![CDATA[chapters/Unit07/Lesson1/U7L1_Screen3.swf]]></path>
+		<path><![CDATA[chapters/Unit07/Lesson1/U7L1_Screen4.swf]]></path>
+	</lesson>
+</unit>
+
+<unit>
+<Num><![CDATA[07]]></Num>
+	<name><![CDATA[Unit 8 : Materials]]></name>
+	<lesson>
+		<name><![CDATA[Using materials]]></name>
+		<path><![CDATA[chapters/Unit08/Lesson1/U8L1_Screen1.swf]]></path>
+		<path><![CDATA[chapters/Unit08/Lesson1/U8L1_Screen2.swf]]></path>		
+		<path><![CDATA[chapters/Unit08/Lesson1/U8L1_Screen3.swf]]></path>
+		<path><![CDATA[chapters/Unit08/Lesson1/U8L1_Screen4.swf]]></path>
+		<path><![CDATA[chapters/Unit08/Lesson1/U8L1_Screen5.swf]]></path>
+	</lesson>
+</unit>
+
+<unit>
+<Num><![CDATA[08]]></Num>
+	<name><![CDATA[Unit 10 : Heat and light]]></name>
+	<lesson>
+		<name><![CDATA[Properties of heat and light]]></name>
+		<path><![CDATA[chapters/Unit10/Lesson1/U10L1_Screen1.swf]]></path>
+		<path><![CDATA[chapters/Unit10/Lesson1/U10L1_Screen2.swf]]></path>		
+		<path><![CDATA[chapters/Unit10/Lesson1/U10L1_Screen3.swf]]></path>
+		<path><![CDATA[chapters/Unit10/Lesson1/U10L1_Screen4.swf]]></path>
+		<path><![CDATA[chapters/Unit10/Lesson1/U10L1_Screen5.swf]]></path>
+	</lesson>
+</unit>
+
+<unit>
+<Num><![CDATA[09]]></Num>
+	<name><![CDATA[Unit 12 : Sound]]></name>
+	<lesson>
+		<name><![CDATA[Sound waves]]></name>
+		<path><![CDATA[chapters/Unit12/Lesson1/U12L1_Screen1.swf]]></path>
+		<path><![CDATA[chapters/Unit12/Lesson1/U12L1_Screen2.swf]]></path>		
+		<path><![CDATA[chapters/Unit12/Lesson1/U12L1_Screen3.swf]]></path>
+		<path><![CDATA[chapters/Unit12/Lesson1/U12L1_Screen4.swf]]></path>
+	</lesson>
+</unit>
+
+
+
+
+
+</data>
+</framexml>
