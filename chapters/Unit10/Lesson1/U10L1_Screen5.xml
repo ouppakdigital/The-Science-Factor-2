@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>+
+
+<titel><![CDATA[<b>Unit 1 : The Human Body</b>]]></titel>
+<titel><![CDATA[<b>Parts of the human body</b>]]></titel>
+
+<rubric><![CDATA[<b>Click each of the highlighted objects and then click the correct option for each question.</b>]]></rubric>
+
+
+<feedback>
+<correct><![CDATA[That's right! Well done!]]></correct>
+<wrong1><![CDATA[Oops! That's not correct. Try again!]]></wrong1>
+<wrong2><![CDATA[Oops! That's incorrect.]]></wrong2>
+<showanswer><![CDATA[This is the correct answer.]]></showanswer>
+<rank1><![CDATA[You can do better than this. ]]></rank1>
+<rank2><![CDATA[Good job!]]></rank2>
+<rank3><![CDATA[Wow! You are marvellous!]]></rank3>
+<Score><![CDATA[Your score:]]></Score>
+</feedback>
+
+<question1>
+<text><![CDATA[<B>Is this object a good conductor of heat?</B>]]></text>
+<option1><![CDATA[<b>Yes</b>]]></option1>
+<option2><![CDATA[<b>No</b>]]></option2>
+<answer1><![CDATA[1]]></answer1>
+</question1>
+
+
+<question2>
+<text><![CDATA[<B>The pane of this window is made of _____________ material.</B>]]></text>
+<option1><![CDATA[<b>transparent</b>]]></option1>
+<option2><![CDATA[<b>translucent</b>]]></option2>
+<option3><![CDATA[<b>opaque</b>]]></option3>
+<answer1><![CDATA[1]]></answer1>
+</question2>
+
+<question3>
+<text><![CDATA[<B>The pane of this shelf is made of _____________ material.</B>]]></text>
+<option1><![CDATA[<b>transparent</b>]]></option1>
+<option2><![CDATA[<b>translucent</b>]]></option2>
+<option3><![CDATA[<b>opaque</b>]]></option3>
+<answer1><![CDATA[2]]></answer1>
+</question3>
+
+<question4>
+<text><![CDATA[<B>The pane of this shelf is made of _____________ material.</B>]]></text>
+<option1><![CDATA[<b>transparent</b>]]></option1>
+<option2><![CDATA[<b>translucent</b>]]></option2>
+<option3><![CDATA[<b>opaque</b>]]></option3>
+<answer1><![CDATA[3]]></answer1>
+</question4>
+
+
+<question5>
+<text><![CDATA[<B>Is this object a good conductor of heat?</B>]]></text>
+<option1><![CDATA[<b>Yes</b>]]></option1>
+<option2><![CDATA[<b>No</b>]]></option2>
+<answer1><![CDATA[2]]></answer1>
+</question5>
+
+
+
+
+
+</data>
+</framexml>  

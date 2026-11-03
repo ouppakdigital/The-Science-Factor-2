@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<title><![CDATA[<b>Unit 4 : Food and diet</b>]]></title>
+<title><![CDATA[<b>Eat moderately</b>]]></title>
+
+<rubric><![CDATA[<B>Roll the mouse over the food items to know what they are.</B>]]></rubric>
+<heading><![CDATA[<B>Eat moderately</B>]]></heading>
+
+<text><![CDATA[<B>milk</B>]]></text>
+<text><![CDATA[<B>eggs</B>]]></text>
+<text><![CDATA[<B>cheese</B>]]></text>
+<text><![CDATA[<B>fish</B>]]></text>
+<text><![CDATA[<B>meat</B>]]></text>
+<text><![CDATA[<B>butter</B>]]></text>
+
+</data>
+</framexml>

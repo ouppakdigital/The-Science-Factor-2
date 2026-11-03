@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<title><![CDATA[<b>Unit 2 : The Animal World</b>]]></title>
+<title><![CDATA[<b>Types of Animals</b>]]></title>
+
+
+
+<heading><![CDATA[<b>Seed with roots and shoot</b>]]></heading>
+
+<text><![CDATA[A plant's life begins as a seed growing in the ground afterit isproduced by an adult plant.]]></text>
+<text><![CDATA[The seed receives water and nutrients from the earth to grow shoots.]]></text>
+<text><![CDATA[Nutrients are minerals found in the earth that help things grow.]]></text>
+
+
+<Lable><![CDATA[shoot]]></Lable>
+<Lable><![CDATA[roots]]></Lable>
+
+
+
+</data>
+</framexml>  

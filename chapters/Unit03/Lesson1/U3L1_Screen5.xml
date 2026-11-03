@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+
+<rubric><![CDATA[<b>Drag and drop the pictures of the stages in the life cycle of a plant in the proper spaces.</b>]]></rubric>
+<text><![CDATA[seed]]></text>
+<text><![CDATA[seed with root]]></text>
+<text><![CDATA[seed with shoot and roots]]></text>
+<text><![CDATA[plant with leaves]]></text>
+<text><![CDATA[plant with flowers]]></text>
+
+
+
+<feedback>
+<correct><![CDATA[That's correct! Well done!]]></correct>
+<wrong1><![CDATA[Oh no! That is not correct. Please try again.]]></wrong1>
+<rank3><![CDATA[That was, marvellous!]]></rank3>
+<Score><![CDATA[Your Score:]]></Score>
+<rank1><![CDATA[Hmm... You can do better than this.]]></rank1>
+<rank2><![CDATA[Good job!]]></rank2>
+<Score><![CDATA[Your score:]]></Score>
+</feedback>
+
+
+
+
+
+
+</data>
+</framexml>  

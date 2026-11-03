@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<title><![CDATA[<B>Unit 2 : The Animal World</B>]]></title>
+<title><![CDATA[<B>How much you know?</B>]]></title>
+
+<text><![CDATA[<b>Click either RIGHT or WRONG for each of the following sentences. </b>]]></text>
+
+<text><![CDATA[1.]]></text>
+<text><![CDATA[Warm-blooded animals change their body temperature when the temperature around them changes.]]></text>
+<text><![CDATA[2.]]></text>
+<text><![CDATA[Human beings are cold-blooded animals.]]></text>
+<text><![CDATA[3.]]></text>
+<text><![CDATA[All reptiles are cold-blooded animals.]]></text>
+<text><![CDATA[4.]]></text>
+<text><![CDATA[Fish are cold-blooded animals.]]></text>
+<text><![CDATA[5.]]></text>
+<text><![CDATA[Birds are cold-blooded animals.]]></text>
+<text><![CDATA[<B>RIGHT</B>]]></text>
+<text><![CDATA[<B>WRONG</B>]]></text>
+
+
+<feedback>
+<correct><![CDATA[That's correct! Now do the next one.]]></correct>
+<correct2><![CDATA[That's correct!]]></correct2>
+<wrong2><![CDATA[Er.. That’s incorrect.]]></wrong2>
+<showanswer><![CDATA[This is the correct answer.]]></showanswer>
+<rank1><![CDATA[Hmm... You can do better than this.]]></rank1>
+<rank2><![CDATA[Good job!]]></rank2>
+<rank3><![CDATA[That was excellent! Well done!]]></rank3>
+<Score><![CDATA[Your score:]]></Score>
+</feedback>
+
+
+</data>
+</framexml>  

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<title><![CDATA[<B>Unit 2 : The Animal World</B>]]></title>
+<title><![CDATA[<B>Activity</B>]]></title>
+
+<text><![CDATA[<B>Click the correct option for each of these skeletons.</B>]]></text>
+
+<text><![CDATA[<B>fish</B>]]></text>
+<text><![CDATA[<B>frog</B>]]></text>
+<text><![CDATA[<B>crab</B>]]></text>
+
+<text><![CDATA[<B>snake</B>]]></text>
+<text><![CDATA[<B>crocodile</B>]]></text>
+<text><![CDATA[<B>turtle</B>]]></text>
+
+<text><![CDATA[<B>frog</B>]]></text>
+<text><![CDATA[<B>ant</B>]]></text>
+<text><![CDATA[<B>turtle</B>]]></text>
+
+<text><![CDATA[<B>man</B>]]></text>
+<text><![CDATA[<B>monkey</B>]]></text>
+<text><![CDATA[<B>crocodile</B>]]></text>
+
+<text><![CDATA[<B>snake</B>]]></text>
+<text><![CDATA[<B>turtle</B>]]></text>
+<text><![CDATA[<B>lizard</B>]]></text>
+
+<text><![CDATA[<B>1</B>]]></text>
+<text><![CDATA[<B>2</B>]]></text>
+<text><![CDATA[<B>3</B>]]></text>
+<text><![CDATA[<B>4</B>]]></text>
+<text><![CDATA[<B>5</B>]]></text>
+
+
+
+<feedback>
+<correct><![CDATA[That's right! Now try the next one.]]></correct>
+<correct1><![CDATA[That's right!]]></correct1>
+<wrong1><![CDATA[Er.. That's not correct. Please try again.]]></wrong1>
+<wrong2><![CDATA[Oops! That's wrong too.]]></wrong2>
+<showanswer><![CDATA[This is the correct answer.]]></showanswer>
+<rank1><![CDATA[Hmm... You can do better than this.]]></rank1>
+<rank2><![CDATA[Good job!]]></rank2>
+<rank3><![CDATA[That was excellent!]]></rank3>
+<Score><![CDATA[Your score:]]></Score>
+</feedback>
+
+
+
+</data>
+</framexml>  

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<title><![CDATA[<b>Unit 4 : Food and diet</b>]]></title>
+<title><![CDATA[<b>Eat most</b>]]></title>
+
+<rubric><![CDATA[<B>Roll the mouse over the food items to know what they are.</B>]]></rubric>
+<heading><![CDATA[<B>Eat most</B>]]></heading>
+
+<text><![CDATA[<B>fruit</B>]]></text>
+<text><![CDATA[<B>vegetable</B>]]></text>
+<text><![CDATA[<B>fruit</B>]]></text>
+<text><![CDATA[<B>bread</B>]]></text>
+<text><![CDATA[<B>fruit</B>]]></text>
+<text><![CDATA[<B>vegetable</B>]]></text>
+<text><![CDATA[<B>corn</B>]]></text>
+<text><![CDATA[<B>nuts</B>]]></text>
+<text><![CDATA[<B>fruit</B>]]></text>
+<text><![CDATA[<B>rice</B>]]></text>
+<text><![CDATA[<B>chapati</B>]]></text>
+
+</data>
+</framexml>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<titel><![CDATA[<b>Unit 7 : Water, weather, wind</b>]]></titel>
+<titel><![CDATA[<b>Activity</b>]]></titel>
+
+
+<rubric><![CDATA[<b>Drag each label to the correct box.</b>]]></rubric>
+
+
+<text><![CDATA[ocean]]></text>
+<text><![CDATA[cloud]]></text>
+<text><![CDATA[river]]></text>
+<text><![CDATA[snow]]></text>
+<text><![CDATA[pond]]></text>
+<text><![CDATA[Sun]]></text>
+<text><![CDATA[stream]]></text>
+<text><![CDATA[rain]]></text>
+
+
+<feedback>
+<correct><![CDATA[That's correct! Well done!]]></correct>
+<wrong1><![CDATA[Oh no! That is not correct. Please try again.]]></wrong1>
+<rank1><![CDATA[Hmm…….You can do better than this.]]></rank1>
+<rank2><![CDATA[Good job!]]></rank2>
+<rank3><![CDATA[Wow! That was clever!]]></rank3>
+<Gameover><![CDATA[Game up, try again?'.]]></Gameover>
+<Score><![CDATA[Your score:]]></Score>
+</feedback>
+
+
+
+</data>
+</framexml>  

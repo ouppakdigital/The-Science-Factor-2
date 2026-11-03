@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<title><![CDATA[<B>Unit 2 : The animal world</B>]]></title>
+<title><![CDATA[<B>Activity</B>]]></title>
+
+<text><![CDATA[<B>Click the correct colour from the options.</B>]]></text>
+
+<text><![CDATA[<B>warm-blooded</B>]]></text>
+<text><![CDATA[<B>cold-blooded</B>]]></text>
+
+
+<feedback>
+<correct><![CDATA[That's right! Well done!]]></correct>
+<wrong1><![CDATA[Oh no! That is not correct. Please try again.]]></wrong1>
+<wrong2><![CDATA[Oops! That's not the right answer.]]></wrong2>
+<showanswer><![CDATA[Here's the right answer.]]></showanswer>
+<rank1><![CDATA[Hmm... I'm sure you'll do better next time.]]></rank1>
+<rank2><![CDATA[Good job!]]></rank2>
+<rank3><![CDATA[Wow! That was excellent!]]></rank3>
+<Score><![CDATA[Your score:]]></Score>
+</feedback>
+
+<submit><![CDATA[<B>restart</B>]]></submit>
+
+</data>
+</framexml>  

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<titel><![CDATA[<b>Unit 6 : Environment</b>]]></titel>
+<titel><![CDATA[<b>Caring for the environment</b>]]></titel>
+
+
+<rubric><![CDATA[<b>Drag the items to the correct bin.</b>]]></rubric>
+
+
+<text><![CDATA[<B>Recyclable materials</B>]]></text>
+<text><![CDATA[<B>Non-recyclable materials</B>]]></text>
+
+<feedback>
+<correct><![CDATA[Well done!]]></correct>
+<correct2><![CDATA[That’s correct!]]></correct2>
+<correct3><![CDATA[That’s right!]]></correct3>
+<wrong1><![CDATA[Oops! That's wrong. Try again.]]></wrong1>
+<wrong2><![CDATA[Oh no! That is not correct.]]></wrong2>
+<showanswer><![CDATA[This is the correct option.]]></showanswer>
+<rank1><![CDATA[You can do better than this. ]]></rank1>
+<rank2><![CDATA[Good job!]]></rank2>
+<rank3><![CDATA[You are amazing!]]></rank3>
+<Score><![CDATA[Your score:]]></Score>
+
+<Gameover><![CDATA[Game up, try again?'.]]></Gameover>
+</feedback>
+
+
+
+</data>
+</framexml>  

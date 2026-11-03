@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<title><![CDATA[<b>Unit 4 : Food and diet</b>]]></title>
+<title><![CDATA[<b>Eat only a little</b>]]></title>
+
+<rubric><![CDATA[<B>Roll the mouse over the food items to know what they are.</B>]]></rubric>
+<heading><![CDATA[<B>Eat only a little</B>]]></heading>
+
+<text><![CDATA[<B>ice cream</B>]]></text>
+<text><![CDATA[<B>sweets</B>]]></text>
+<text><![CDATA[<B>lollipop</B>]]></text>
+<text><![CDATA[<B>cold drink can</B>]]></text>
+<text><![CDATA[<B>pizza slice</B>]]></text>
+<text><![CDATA[<B>burger</B>]]></text>
+
+</data>
+</framexml>

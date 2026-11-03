@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+
+
+<rubric><![CDATA[<b>Click the correct option to complete the sentences.</b>]]></rubric>
+<feedback>
+<correct><![CDATA[That's right. Good job!]]></correct>
+<wrong2><![CDATA[Oh no! That is wrong.]]></wrong2>
+<showanswer><![CDATA[Here is the correct answer.]]></showanswer>
+<rank1><![CDATA[Hmm…….You can do better than this.]]></rank1>
+<rank2><![CDATA[Good job!]]></rank2>
+<rank3><![CDATA[Wow! That was simply marvellous!]]></rank3>
+<Score><![CDATA[Your score:]]></Score>
+</feedback>
+
+<question1>
+<text><![CDATA[1.]]></text>
+<text><![CDATA[_______ fills the ponds, lakes, rivers, and oceans.]]></text>
+<option1><![CDATA[<b>Rain</b>]]></option1>
+<option2><![CDATA[<b>Sun</b>]]></option2>
+</question1>
+
+<question2>
+<text><![CDATA[2.]]></text>
+<text><![CDATA[The _______ heats up the water in rivers, lakes, rivers, and oceans.]]></text>
+<option1><![CDATA[<b>clouds</b>]]></option1>
+<option2><![CDATA[<b>Sun</b>]]></option2>
+</question2>
+
+
+<question3>
+<text><![CDATA[3.]]></text>
+<text><![CDATA[The cold rain turns to _______.]]></text>
+<option1><![CDATA[<b>snow</b>]]></option1>
+<option2><![CDATA[<b>clouds</b>]]></option2>
+</question3>
+
+<question4>
+<text><![CDATA[4.]]></text>
+<text><![CDATA[_______ water falls from the sky.]]></text>
+<option1><![CDATA[<b>Ocean</b>]]></option1>
+<option2><![CDATA[<b>Rain</b>]]></option2>
+</question4>
+
+<question5>
+<text><![CDATA[5.]]></text>
+<text><![CDATA[Heated water rises into the _______.]]></text>
+<option1><![CDATA[<b>air</b>]]></option1>
+<option2><![CDATA[<b>ocean</b>]]></option2>
+</question5>
+
+
+
+
+</data>
+</framexml>  

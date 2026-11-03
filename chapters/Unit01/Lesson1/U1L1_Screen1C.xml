@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<title><![CDATA[<b>Unit 1 : The Human Body</b>]]></title>
+<title><![CDATA[<b>Brain, Heart and Lungs</b>]]></title>
+
+<heading><![CDATA[<b>The lungs</b>]]></heading>
+
+
+<text><![CDATA[We breathe in oxygen from the air through our nose.]]></text>
+<text><![CDATA[The oxygen reaches the lungs and then enters the blood.]]></text>
+<text><![CDATA[The blood carries the oxygen to the heart and then from the heart to other parts of the body.]]></text>
+<text><![CDATA[The blood carries carbon dioxide to the lungs that the body doesn't need.]]></text>
+<text><![CDATA[Carbon dioxide is removed from the body when we breathe out.]]></text>
+
+<Lable><![CDATA[<B>lungs</B>]]></Lable>
+<Lable><![CDATA[<B>heart</B>]]></Lable>
+
+
+
+</data>
+</framexml>  

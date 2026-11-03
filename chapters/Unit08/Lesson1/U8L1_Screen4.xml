@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+
+
+<rubric><![CDATA[<b>Click either TRUE or FALSE for each of the following sentences.</b>]]></rubric>
+<feedback>
+<correct><![CDATA[That’s correct. Well done!]]></correct>
+<wrong2><![CDATA[Oh no! That is incorrect.]]></wrong2>
+<showanswer><![CDATA[Here is the correct answer.]]></showanswer>
+<rank1><![CDATA[I am sure you can do better than this next time.]]></rank1>
+<rank2><![CDATA[Good job! You can do much better than this.]]></rank2>
+<rank3><![CDATA[Wow! That was marvellous!]]></rank3>
+<Score><![CDATA[Your score:]]></Score>
+</feedback>
+
+<question1>
+<text><![CDATA[1.]]></text>
+<text><![CDATA[Wood is used for making paper.]]></text>
+<option1><![CDATA[<b>TRUE</b>]]></option1>
+<option2><![CDATA[<b>FALSE</b>]]></option2>
+</question1>
+
+<question2>
+<text><![CDATA[2.]]></text>
+<text><![CDATA[Plastic is a natural material.]]></text>
+<option1><![CDATA[<b>TRUE</b>]]></option1>
+<option2><![CDATA[<b>FALSE</b>]]></option2>
+</question2>
+
+
+<question3>
+<text><![CDATA[3.]]></text>
+<text><![CDATA[Stones and bricks are used  in building walls.]]></text>
+<option1><![CDATA[<b>TRUE</b>]]></option1>
+<option2><![CDATA[<b>FALSE</b>]]></option2>
+</question3>
+
+<question4>
+<text><![CDATA[4.]]></text>
+<text><![CDATA[An umbrella can be made from paper.]]></text>
+<option1><![CDATA[<b>TRUE</b>]]></option1>
+<option2><![CDATA[<b>FALSE</b>]]></option2>
+</question4>
+
+<question5>
+<text><![CDATA[5.]]></text>
+<text><![CDATA[Cloth can be made from clay.]]></text>
+<option1><![CDATA[<b>TRUE</b>]]></option1>
+<option2><![CDATA[<b>FALSE</b>]]></option2>
+</question5>
+
+
+
+
+</data>
+</framexml>  

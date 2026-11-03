@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<title><![CDATA[<b>Unit 2 : The Animal World</b>]]></title>
+<title><![CDATA[<b>Types of Animals</b>]]></title>
+
+
+
+<heading><![CDATA[<b>Flowers, spores, and fruits</b>]]></heading>
+<heading><![CDATA[<b>Inside a seed</b>]]></heading>
+
+<text><![CDATA[Plant with spores  .]]></text>
+<text><![CDATA[Spores are much smaller than seeds.]]></text>
+<text><![CDATA[Fruits contain flesh and seeds. When these seeds are scattered, new plants grow.]]></text>
+
+
+
+<lable><![CDATA[spores]]></lable>
+<lable><![CDATA[<B>spores</B>]]></lable>
+<lable><![CDATA[<B>seeds</B>]]></lable>
+<lable><![CDATA[<B>seed</B>]]></lable>
+
+
+
+<lable><![CDATA[food storage]]></lable>
+<lable><![CDATA[embryo<BR>(baby plant)]]></lable>
+<lable><![CDATA[seed coat]]></lable>
+
+
+<lable><![CDATA[Plant with spores]]></lable>
+<lable><![CDATA[Plant with flowers]]></lable>
+
+
+</data>
+</framexml>  
